@@ -4,6 +4,8 @@ To simulate an operational amplifier based summing amplifier and verify the outp
 ## Apparatus required:
 PC with LT Spice Software
 ## Circuit Diagram:
+![WhatsApp Image 2025-11-23 at 00 40 31_5da436ac](https://github.com/user-attachments/assets/f03a145d-3cd1-42b9-965f-856d93632495)
+
 
 ## Simulation Procedure:
 1.	Open the Ltspice software
@@ -39,7 +41,17 @@ PC with LT Spice Software
 16.	To get the voltage across a component the name of the trace should represent both the nodes. example V(n001,n002))
 
 ## Theoritical Calculation:
+![WhatsApp Image 2025-11-23 at 00 38 49_e489a1a5](https://github.com/user-attachments/assets/a788e75e-bee3-41ca-acfb-b44d759f932e)
+
 
 ## Output:
+##Input waveform
+<img width="1911" height="1016" alt="Screenshot 2025-11-23 003500" src="https://github.com/user-attachments/assets/e08142cc-14f4-49da-9183-0583718cf75a" />
+
+##Output waveform
+<img width="1905" height="1016" alt="Screenshot 2025-11-23 003640" src="https://github.com/user-attachments/assets/82be24e3-e5bf-47fa-8dfc-28dc576d98c9" />
+
 
 ## Result:
+![WhatsApp Image 2025-11-23 at 00 39 18_96d545dd](https://github.com/user-attachments/assets/7a4bf2ad-0425-4bc3-b08d-e1298d75bcc7)
+
